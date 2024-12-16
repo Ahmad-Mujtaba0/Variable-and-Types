@@ -1,0 +1,35 @@
+# Print a statement of message using "Print Function".
+print("Hello, everyone! I am learning Python. 😄")
+
+# Declare a variables and Store yours Name, Age, Favrioute Animal init.
+My_Name:str = "Ahmad Mujtaba"
+Age:int =19
+My_Favorite_Animal:str = "Egle"
+print("Name:",My_Name)
+print("Age:",Age)
+print("Favorite Animal:", My_Favorite_Animal)
+
+ # Store Information aboute yourself in single variable 
+intro:str = "My name is Ahmad Mujtaba, I am 19 Year Old and I don't have any animal!" 
+print(intro)
+
+# Declare and initialize the Variables with it types 
+Favorite_movie:str = "12th Fail"
+Date_of_birth:int = 2005
+Price_of_snack:float = 10.50
+print("Favorite Movie:", Favorite_movie)
+print("Birth Date:", Date_of_birth)
+print("Snack Price:",Price_of_snack)
+
+# use variable and print statement combiningly
+hobby = "Watch Historical Darams"
+print("My Hobby is", hobby)
+
+# Two variable with different values and third one is sum of the first two variables and its print
+a=8
+b=2
+c=10
+print("a =",a)
+print("b =",b)
+print("c =",c, "(a and b combined!)")
+
